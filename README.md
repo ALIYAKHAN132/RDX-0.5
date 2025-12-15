@@ -1,10 +1,10 @@
 <div align="center">
   <h1>
-    <img src="https://img.shields.io/badge/WELCOME%20TO-SARDAR%20RDX%20BOT-075E54?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Welcome Badge">
+    <img src="https://img.shields.io/badge/WELCOME%20TO-SARDAR%20RDX%20BOT-informational?style=for-the-badge&logo=github&logoColor=white&colorA=800080&colorB=FF0000" alt="Welcome Badge">
   </h1>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=22&color=FFFFCC&background=0F4C0F&center=true&vCenter=true&width=600&height=70&lines=HELLO+FRIENDS!+SARDAR+RDX+HERE+👨‍💻+🫰;RDX+BOT+PROJECT;RDX+FCA+BOT;THANKYOU+FOR+USING+RDX+PROJECT&border=5px+solid+0A300A&borderRadius=15px&speed=100" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF0000,FFFF00,00FF00,0000FF,4B0082,EE82EE&background=000000&center=true&vCenter=true&width=600&height=70&lines=HELLO+FRIENDS!+SARDAR+RDX+HERE+👨‍💻+🫰;RDX+BOT+PROJECT;RDX+FCA+BOT;THANKYOU+FOR+USING+RDX+PROJECT&border=10px+solid+000000&borderRadius=15px" alt="Typing Animation">
   </p>
   
   <img src="https://i.imgur.com/yr1YUuj.jpeg" alt="SARDAR RDX BOT" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
@@ -12,7 +12,7 @@
   <h3>
     <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/badge/Node.js-16.x+-green?style=for-the-badge&logo=node.js" alt="Node.js">
-    <img src="https://img.shields.io/badge/Platform-WhatsApp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Platform">
+    <img src="https://img.shields.io/badge/Platform-WhatsApp-informational?style=for-the-badge&logo=whatsapp" alt="Platform">
   </h3>
 </div>
 
